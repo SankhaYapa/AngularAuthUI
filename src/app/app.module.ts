@@ -16,7 +16,8 @@ import { TokenInterceptor } from './interceptors/token.interceptor';
     AppComponent,
     LoginComponent,
     SignupComponent,
-    DashboardComponent
+    DashboardComponent,
+
   ],
   imports: [
     BrowserModule,
@@ -24,7 +25,9 @@ import { TokenInterceptor } from './interceptors/token.interceptor';
     ReactiveFormsModule,
     FormsModule,
     HttpClientModule,
-    NgToastModule
+    NgToastModule,
+    FormsModule,
+
   ],
   providers: [{
     provide:HTTP_INTERCEPTORS,
