@@ -1,4 +1,12 @@
 # AngularAuthYtUI
+Login Page
+![Screenshot (128)](https://github.com/SankhaYapa/AngularAuthUI/assets/88539220/6fb8c869-e554-416a-811c-973cca002160)
+Register Page
+![Screenshot (129)](https://github.com/SankhaYapa/AngularAuthUI/assets/88539220/3d2a55cf-3acb-46c4-82a6-ced163bfd441)
+Dashboard
+![Screenshot (130)](https://github.com/SankhaYapa/AngularAuthUI/assets/88539220/e6539e52-d2e5-4878-814e-30b5c5ce0764)
+JWT and Refresh Token
+![Screenshot (136)](https://github.com/SankhaYapa/AngularAuthUI/assets/88539220/1be14335-1f75-4af4-bd93-63bf277452ac)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.8.
 
